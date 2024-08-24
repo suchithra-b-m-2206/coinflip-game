@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\suchithra\\OneDrive\\Desktop\\Project\\coinflip-game\\contracts\\CoinFlip.sol": {
+      "lastModificationDate": 1724478113152,
+      "contentHash": "ef398f35de95d225b326f20dff2a3077",
+      "sourceName": "contracts/CoinFlip.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "CoinFlip"
+      ]
+    }
+  }
+}
